@@ -5,6 +5,9 @@
 <a href="https://www.loom.com/share/f37c6838b3f1496c95111e515e83dd9b"><img src="https://github.com/4GeeksAcademy/flask-rest-hello/blob/main/docs/assets/how-to.png?raw=true?raw=true" /></a>
 </p>
 
+### My Wireframe
+<a href="https://miro.com/app/board/o9J_lQ1MmZ4=/?openNotes"><img src="https://bit2bitamericas.com/wp-content/uploads/2020/08/miro-logo.svg" />  </a> 
+
 ### Styles
 You can update the `styles/index.scss` or create new `.scss` files inside `styles/` and import them into your current scss or js files depending on your needs.
 
